@@ -6,7 +6,7 @@
 
 Submitted by: **Valeria Vazquez**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -26,8 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/1EUFhPR.gif
+![prework_gif](https://user-images.githubusercontent.com/80940481/150652900-7939f78e-d98b-47a7-8bc5-00a1d0481b4d.gif)
+
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
